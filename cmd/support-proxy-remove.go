@@ -19,7 +19,7 @@ package cmd
 
 import (
 	"github.com/minio/cli"
-	"github.com/minio/mc/pkg/probe"
+	"github.com/biggusdonzus/mc/pkg/probe"
 	"github.com/minio/pkg/v3/console"
 )
 

@@ -21,7 +21,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/minio/mc/pkg/probe"
+	"github.com/biggusdonzus/mc/pkg/probe"
 	"github.com/minio/minio-go/v7"
 )
 

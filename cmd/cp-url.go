@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/minio/mc/pkg/probe"
+	"github.com/biggusdonzus/mc/pkg/probe"
 )
 
 type copyURLsType uint8

@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/minio/cli"
-	"github.com/minio/mc/pkg/probe"
+	"github.com/biggusdonzus/mc/pkg/probe"
 )
 
 var shareDownloadFlags = []cli.Flag{
